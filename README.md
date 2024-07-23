@@ -24,3 +24,14 @@ Aggregation and Grouping: Using aggregate functions and GROUP BY clauses to summ
 Views and Indexes: Creating views and indexes to optimize query performance and simplify data access.
 Stored Procedures and Functions: Implementing stored procedures and functions for reusable and modular SQL code.
 Data Analysis: Performing data analysis to uncover trends and patterns in the sales data.
+
+This project showcases my proficiency in SQL and database management. By working with the BikeStores database, I have honed my skills in data querying, data manipulation, and data analysis. I hope this project serves as a valuable resource for anyone looking to learn more about SQL and database management.
+--
+Feel free to explore the repository and reach out if you have any questions or feedback!
+Contact Me 
+-- Fares Ashraf
+-- 01281931001
+-- fares.social41@gmail.com
+-- github.com/Fares403
+--linkedin.com/in/Fares403/
+--
